@@ -1,0 +1,116 @@
+Tag (subcategory_tag),Description
+audience_engagement_commerical,Remarks encouraging engagement in commercialised activities and the purchase of products.
+audience_engagement_contributions,"Asks for audience engagement through reactions, contributions and specific recommendations/explanations."
+audience_engagement_description,Refers to the content of the YouTube video description of image description.
+audience_engagement_follow,Remarks encouraging the audience to follow the creator on YT or other platforms.
+audience_engagement_format,"Comments relating to the video format, either internal to the video or within a planned series, including the posting schedule."
+audience_engagement_identification,"Identifies with the audience, or with members of the audience."
+audience_engagement_own_resonances,"Shares personal resonances with the audience, be these associations, reflections, memories or ideas."
+audience_engagement_privacy,Remarks relating to the creator's concern for privacy.
+audience_engagement_real_life,Comments encouraging audience to engage in real life activities.
+audience_engagement_recommendation,"Makes recommendation of another book, material or resource to the audience."
+audience_engagement_topic_selection,Comments explaining or justifying the video topic selection.
+emotional_response_annoyance,"Responses displaying clear irritation, annoyance, anger, etc."
+emotional_response_anticipation,"Expresses feelings of anticipation about reading hte book in question, or other works."
+emotional_response_comforting,Expressing feelings of comfort from reading the text in question or the author's work.
+emotional_response_cried,Reported crying in response to the text under discussion.
+emotional_response_depressing,Reporting feeling depressed by the text or the author's work.
+emotional_response_detachment,Comments expressing sense of detachment from the text or analysis of the text or relevant background.
+emotional_response_displeasure,Comments expressing emotional responses of displeasure.
+emotional_response_engagement,References to emotional response of engagement.
+emotional_response_hope,References an emotional response of hopefulness.
+emotional_response_love,Comments expressing feelings of love.
+emotional_response_physical,"References a physical emotional response to the text, e.g. goosebumps or panic."
+emotional_response_pleasurable,Comments expressing a pleasurable reading experience.
+evaluation_aesthetic,Evaluations of the work in question in terms of aesthetic value and pleasure.
+evaluation_derogatory_remark,Uses a derogatory remark to evaluate the text or author.
+evaluation_female_writing,"Reflecting on the value of the work as an example of writing by or about women, or as contributing to feminist causes and discussion."
+evaluation_oeuvre,Comments relating to the entire body of work of the writer in question.
+evaluation_reputation,Comments reflecting on author's prestige or widespread reputation.
+evaluation_cultural_value,"Evaluates the cultural value of text, without necessarily defining cultural value; often used with ‘evaluation_positive’ and ‘evaluation_negative’ tags."
+evaluation_discursive,Reflections on the text's discursive qualities.
+evaluation_dull,Evaluates the text as dull.
+evaluation_exciting,Evaluations of the text as exciting and engaging.
+evaluation_flawed,"Evaluates the text as flawed, especially in a textually-grounded way."
+evaluation_good_taste,References to displays of good taste.
+evaluation_immoral,Negative reflections on the moral character of the text.
+evaluation_instructive,Reflections on the text as being instructive.
+evaluation_literary,Comments evaluating the literariness of the text in question and deciding that it does have some literary value.
+evaluation_masterful,"Judgement on text: skilful, masterful, a masterpiece, etc."
+evaluation_modern,Reflections on the text or themes as modern.
+evaluation_negative,Evaluations that are general and negative; used with other tags from ‘evaluation’ subcategory to specify negativity.
+evaluation_political,"Evaluate the political content, impact and intention of the work or the author's body of work."
+evaluation_positive,Comments expressing a positive personal evaluation of the text in question; used with other tags from ‘evaluation’ subcategory to specify positivity.
+evaluation_positive_discrimination,"Evaluation of author acclaim, suggesting that positive discrimination explains their success."
+evaluation_realistic,"Evaluations of the text as illustrative, realistic or realist."
+evaluation_stimulating,"Reference to how the text stimulated the reader to read more, learn more or in other ways."
+evaluation_uninstructive,Evaluations that the text is lacking in meaningful information or insights.
+evaluation_unique,"Remarks reflecting on the uniqueness of the text, either within the context of the author's entire body of work or literature more generally."
+evaluation_unliterary,Remarks that work lacks literary features or merits.
+genre_ambiguous,References to ambiguous genre.
+genre_autobiography,Genre: specific reference to autobiography.
+genre_autofiction,Genre: specific reference to autofiction.
+genre_based_on_authors_life,References to genre of writing based on author's life.
+genre_coming_of_age,References to bildungsroman.
+genre_confessions,"Specific reference to confessions, rather than autobiography."
+genre_cultural_memory,References to genre relating to shared cultural reference points.
+genre_diary,Reference to genre that resembles a diary.
+genre_memoir,Makes specific reference to memoir in relation to text in question.
+genre_mix_sociology_ab,References to mixing of aspects of sociology and autobiography.
+genre_mix_sociology_lit,"Reference to mixing of sociology and literature in general, without reference to descriptors such as autofiction or the novel."
+genre_novel,Makes specific reference to the novel in relation to the text in question.
+genre_philosophy,Makes specific reference to philosophical writings in relation to the text in question.
+genre_political_novel,Makes specific reference to the ‘political novel’ in relation to the text in question.
+genre_sociology,"References to genre of sociological writing, sharing conventions and goals of this."
+genre_study,Makes specific reference or comparison with anthropological or sociological study.
+textual_analysis_characterisation,Refers to characterisation in the text.
+textual_analysis_date,Refers to when the text is set in relation to a specific date or decades.
+textual_analysis_historical_setting,Refers to text’s historical setting.
+textual_analysis_pace,"Comments on pacing of the text, how this is achieved and experienced."
+textual_analysis_plot,Comments on plot.
+textual_analysis_sequence_events,"Recounts sequence of events in the text, or reflect on presentation of these."
+textual_analysis_setting,"Comments on where the text is set, how this is evoked and experienced."
+textual_analysis_symbolism,References to the use of symbolism.
+textual_analysis_tense,Comments relating to the use of tense and its effects.
+textual_analysis_theory,References to theories of writing and interpretation used by the author.
+textual_analysis_third_person,Remarks relating to the use of third person narration.
+textual_analysis_word_choice,Comments on word choice.
+textual_analysis_working_class_perspective,Reflections on voice or narrative perspective in relation to a working class point of view.
+textual_extract,Direct quotations from text.
+theme_bullying,References to the theme of bullying in the text.
+theme_class,References to the theme of social class.
+theme_colonialism,Remarks relating to this theme.
+theme_consumerism,Remarks relating to the presence and exploitation of the theme of consumerism.
+theme_cultural_identification,"Reference to the theme of cultural identification, especially reflecting on relationship between individual and collective experience."
+theme_death_ageing,Reflections on the related themes of death and ageing.
+theme_female_experience,Comments on the presence and execution of this theme.
+theme_health_wellbeing,"References to the themes of health and wellbeing in the text, including ill-health and mental health."
+theme_homophobia,References to the theme of homophobia in the text and paratext.
+theme_language_power,"References to reflections on language and power, the relationship between these."
+theme_literature_writing,"References to reflections on the writing process and literature, the text and author's relationship to literary traditions, etc."
+theme_love_relationships,Presence and execution of these themes.
+theme_masculinity,References to the presence of theme of masculinity in the text.
+theme_memory,"Presence, explanation and execution of this theme."
+theme_neglect,References to the presence of theme of neglect in the text.
+theme_personal_growth,References to the presence of theme of personal growth in the text and paratext.
+theme_racism,References to the presence of theme of racism in the text.
+theme_religion_morality,Remarks relating to these broad themes of religion and morality in the text.
+theme_sexuality,"References to the presence of theme of sexuality in the text and paratext, including sexual desire, preferences, expression and norms."
+theme_social_change,Remarks relating to the theme of social change.
+theme_social_history,References to the theme of social history in the text.
+theme_social_mobility,References to the presence of theme of social mobility in the text.
+theme_technology,References to the theme of technology in the text.
+theme_violence,References to the presence of theme of violence in the text.
+textual_analysis_polyphony,"Comments on polyphony of narrative voice in the text, or inclusion of multiple voices using techniques such as quotation."
+style_dense,Reflection on the style as dense.
+evaluation_dated,"Evaluates the text as dated, or out of style in relation to themes, language or narrative voice, and another other textual features."
+reading_practices_extraits,"Refers to having read extracts of the text, rather than reading in a linear fashion."
+theme_political_history,References to the theme of political history in the text.
+textual_analysis_chapter_structure,Reflections on the text’s chapter structure.
+intertextuality_hugo,Remarks on intertextuality with works or opinions of Victor Hugo.
+evaluation_romantism,Evaluates the text as belonging to the tradition of Romanticism.
+reading_practices_writing_inspiration,Reflects on the text as having provided inspiration and guidance on their own writing practices.
+evaluation_untruthful,Evaluates the content of the text as untruthful.
+reading_practices_pictures,Refers to consultation of pictures in the text.
+textual_analysis_mood,Reflections on the mood of the text.
+theme_exile,References to the theme of exile in the text.
